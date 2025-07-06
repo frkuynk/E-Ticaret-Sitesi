@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nike Air Max DN</title>
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+  <link rel="stylesheet" href="shoeStyle.css">
+</head>
+
+<body>
+  <section>
+    <div class="container flex">
+      <div class="left">
+        <div class="main_image">
+          <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb0ab02c-ba01-4953-9e45-8c18b2f03659/air-max-dn-ayakkab%C4%B1-hZC5QK.png" class="slide">
+        </div>
+        <div class="option flex">
+          <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4913eecd-36a1-4146-b4d1-397f053b82f0/air-max-dn-ayakkab%C4%B1-hZC5QK.png" onclick="img('assets/nikeShoes/air.png')">
+          <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/060dced4-b91b-4c1e-bdc8-7e161037dffb/air-max-dn-ayakkab%C4%B1-hZC5QK.png" onclick="img('assets/nikeShoes/air1.png')">
+          <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2f4db951-d21c-48eb-a451-b1c954e38b5b/air-max-dn-ayakkab%C4%B1-hZC5QK.png" onclick="img('assets/nikeShoes/air2.png')">
+          <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f0cf2500-2d3c-44f2-8342-62d129f8f062/air-max-dn-ayakkab%C4%B1-hZC5QK.png" onclick="img('assets/nikeShoes/air3.png')">
+          <img src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9dd539b3-b8f5-40e8-9c91-33c6c2f67999/air-max-dn-ayakkab%C4%B1-hZC5QK.png" onclick="img('assets/nikeShoes/air4.png')">
+        </div>
+      </div>
+      <div class="right">
+        <h3>Nike Air Max DN</h3>
+        <h4> <small></small>3000 ₺</h4>
+        <p>Yeni nesil Air teknolojisine merhaba de. Air Max Dn, çift basınçlı tüplerden oluşan Dynamic Air birimiyle her adımda hızlı tepki veren bir yapı sunar. Fütüristik tasarım, gece gündüz giyebileceğin kadar rahattır. Feel the Unreal. </p>
+        <h5>RENK-BEYAZ</h5>
+        <div class="color flex1">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <h5>Adet</h5>
+        <div class="add flex1">
+          <span>-</span>
+          <label>1</label>
+          <span>+</span>
+        </div>
+
+        <button>Sepete Ekle</button>
+      </div>
+    </div>
+  </section>
+  <script>
+    function img(anything) {
+      document.querySelector('.slide').src = anything;
+    }
+
+    function change(change) {
+      const line = document.querySelector('.home');
+      line.style.background = change;
+    }
+  </script>
+</body>
+
+</html>

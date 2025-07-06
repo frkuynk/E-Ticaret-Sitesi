@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Air Jordan 1 Low",
+    "mark": "Nike",
+    "price": 2500,
+    "oldPrice": 3000,
+    "description": "1980'lerin klasik basketbol stilini seviyor ancak günümüzün hızlı oyun kültürüne uygun bir model mi arıyorsun? Nike Court Vision ile tanış. Şık deri ve süet yüzeyler klasik bir stil oluştururken yumuşak bilek kısmı ayakkabıya zarif ve modern bir tasarım ve rahat bir yapı kazandırır",
+    "starRate": 5,
+    "reviewCount": 1938,
+    "stock": 1881,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/786867c8-f1f7-4dfd-9a7e-039d92406715/air-jordan-1-low-ayakkab%C4%B1s%C4%B1-KJDjGc.png",
+    "type": "spor"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Max DN",
+    "mark": "Nike",
+    "price": 3000,
+    "oldPrice": null,
+    "description": "Yeni nesil Air teknolojisine merhaba de. Air Max Dn, çift basınçlı tüplerden oluşan Dynamic Air birimiyle her adımda hızlı tepki veren bir yapı sunar. Fütüristik tasarım, gece gündüz giyebileceğin kadar rahattır. Feel the Unreal.",
+    "starRate": 4.7,
+    "reviewCount": 330,
+    "stock": 7,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1b0c88ac-202d-4335-a864-1907e95c732b/air-max-dn-ayakkab%C4%B1-hZC5QK.png",
+    "type": "spor"
+  },
+  {
+    "id": 3,
+    "name": "Air Jordan Legacy 312",
+    "mark": "Nike ",
+    "price": 3500,
+    "oldPrice": null,
+    "description": "Chicago'nun 312 numaralı alan koduna saygı duruşunda bulunan stille MJ'in mirasını kutla. Üç ikonik Jordan'dan (AJ3, AJ1 ve Air Alpha Force) ayrıntılar taşıyan silüet, en iyileri temsil eden modern bir kombinasyon sunar.",
+    "starRate": 4.2,
+    "reviewCount": 130,
+    "stock": 3,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ed54048a-dc8c-4f01-bc94-82728d9b570b/air-jordan-legacy-312-low-ayakkab%C4%B1s%C4%B1-mpV0mH.png",
+    "type": "spor"
+  },
+  {
+    "id": 4,
+    "name": "Nike Precision 6",
+    "mark": "Nike",
+    "price": 2750,
+    "oldPrice": null,
+    "description": "Üst kısmındaki destek sunan dayanıklı deri ile Nike Air Monarch IV seni antrenman yapmaya hazırlar. Hafif köpük, Nike Air yastıklamayla bir araya gelerek her adımda rahat etmeni sağlar.",
+    "starRate": 4.2,
+    "reviewCount": 560,
+    "stock": 6,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/df4a762e-7cf3-4e3f-b3dc-315a2f352b6f/precision-6-basketbol-ayakkab%C4%B1s%C4%B1-VqghZW.png",
+    "type": "spor"
+  },
+  {
+    "id": 5,
+    "name": "Air Jordan 1 Low SE",
+    "mark": " Nike",
+    "price": 4750,
+    "oldPrice": 5000,
+    "description": "Üst kısmındaki destek sunan dayanıklı deri ile Nike Air Monarch IV seni antrenman yapmaya hazırlar. Hafif köpük, Nike Air yastıklamayla bir araya gelerek her adımda rahat etmeni sağlar.",
+    "starRate": 3.7,
+    "reviewCount": 410,
+    "stock": 450,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ef66458b-6949-44e7-a35e-21818fc5d1e1/air-jordan-1-low-se-ayakkab%C4%B1s%C4%B1-483BGL.png",
+    "type": "spor"
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Force 1'07",
+    "mark": "Nike ",
+    "price": 5000,
+    "oldPrice": 6000,
+    "description": "Üst kısmındaki destek sunan dayanıklı deri ile Nike Air Monarch IV seni antrenman yapmaya hazırlar. Hafif köpük, Nike Air yastıklamayla bir araya gelerek her adımda rahat etmeni sağlar.",
+    "starRate": 4.3,
+    "reviewCount": 145,
+    "stock": 321,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/871ea72c-a2f4-493c-a6f4-3be31a86c73b/air-force-1-07-ayakkab%C4%B1s%C4%B1-Mz06X7.png",
+    "type": "spor"
+  },
+  {
+    "id": 7,
+    "name": "Nike Blaze Low",
+    "mark": "Nike",
+    "price": 4250,
+    "oldPrice": null,
+    "description": "Üst kısmındaki destek sunan dayanıklı deri ile Nike Air Monarch IV seni antrenman yapmaya hazırlar. Hafif köpük, Nike Air yastıklamayla bir araya gelerek her adımda rahat etmeni sağlar.",
+    "starRate": 4.3,
+    "reviewCount": 173,
+    "stock": 73,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/81790969-727e-41d6-b821-50c49ad9af4c/blazer-low-77-jumbo-ayakkab%C4%B1s%C4%B1-gRBtmC.png",
+    "type": "spor"
+  },
+
+  {
+    "id": 8,
+    "name": "Nike Air Force 1 Luxe",
+    "mark": "Nike",
+    "price":3325,
+    "oldPrice": null,
+    "description": "Üst kısmındaki destek sunan dayanıklı deri ile Nike Air Monarch IV seni antrenman yapmaya hazırlar. Hafif köpük, Nike Air yastıklamayla bir araya gelerek her adımda rahat etmeni sağlar.",
+    "starRate": 4.3,
+    "reviewCount": 189,
+    "stock": 89,
+    "imgSource": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c6d55fea-37cf-4dd8-bbca-55e22809bcd4/air-force-1-luxe-ayakkab%C4%B1s%C4%B1-QDl2hl.png",
+    "type": "spor"
+  }
+  
+]
